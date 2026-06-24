@@ -146,8 +146,44 @@ color:white;
 <body>
 
 <div class="sidebar">
-<div class="logo">📍 HCM Lead Map</div>
+
+<div class="logo">📍 Vietnam Lead Map</div>
+
+<select id="citySelect" style="
+width:100%;
+margin-top:10px;
+padding:10px;
+border-radius:10px;
+border:1px solid #ddd;
+">
+
+<option value="hcm-full.csv">Hồ Chí Minh</option>
+<option value="ha-noi.csv">Hà Nội</option>
+<option value="da-nang.csv">Đà Nẵng</option>
+<option value="dong-nai.csv">Đồng Nai</option>
+<option value="binh-duong.csv">Bình Dương</option>
+<option value="can-tho.csv">Cần Thơ</option>
+<option value="hai-phong.csv">Hải Phòng</option>
+<option value="an-giang.csv">An Giang</option>
+<option value="bac-giang.csv">Bắc Giang</option>
+<option value="bac-ninh.csv">Bắc Ninh</option>
+<option value="hai-duong.csv">Hải Dương</option>
+<option value="hung-yen.csv">Hưng Yên</option>
+<option value="khanh-hoa.csv">Khánh Hòa</option>
+<option value="long-an.csv">Long An</option>
+<option value="nghe-an.csv">Nghệ An</option>
+<option value="quang-nam.csv">Quảng Nam</option>
+<option value="quang-ngai.csv">Quảng Ngãi</option>
+<option value="tay-ninh.csv">Tây Ninh</option>
+<option value="thai-binh.csv">Thái Bình</option>
+<option value="thanh-hoa.csv">Thanh Hóa</option>
+<option value="thua-thien-hue.csv">Thừa Thiên Huế</option>
+<option value="vinh-long.csv">Vĩnh Long</option>
+
+</select>
+
 <div id="count" class="count">Loading...</div>
+
 </div>
 
 <div id="map"></div>
@@ -159,8 +195,8 @@ color:white;
 mapboxgl.accessToken =
 "pk.eyJ1IjoiamFja2RvYW4iLCJhIjoiY21xcXhteHBpMGpoaTJwb29jeW55cnNkcCJ9.3A2FH2ggqtAiQJXfYpqXiQ";
 
-const CSV_URL =
-"https://raw.githubusercontent.com/kiviwork123-hub/lead-map-data/main/hcm-full.csv";
+const GITHUB_BASE =
+"https://raw.githubusercontent.com/kiviwork123-hub/lead-map-data/main/";
 
 const map = new mapboxgl.Map({
 container:"map",
@@ -212,8 +248,15 @@ features
 };
 
 }
+function getSelectedCSV(){
 
-fetch(CSV_URL)
+return (
+GITHUB_BASE +
+document.getElementById("citySelect").value
+);
+
+}
+fetch(getSelectedCSV())
 .then(r=>r.text())
 .then(text=>{
 
