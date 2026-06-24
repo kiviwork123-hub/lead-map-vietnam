@@ -447,7 +447,24 @@ href="https://www.google.com/maps?q=${lat},${lng}">
 console.error(err);
 alert("Không tải được CSV");
 });
+document
+.getElementById("citySelect")
+.addEventListener("change",(e)=>{
 
+const file = e.target.value;
+
+loadProvince(file);
+
+if(CITY_CENTER[file]){
+
+map.flyTo({
+center:CITY_CENTER[file],
+zoom:11
+});
+
+}
+
+});
 <script>
 
 let myMarker = null;
@@ -512,25 +529,7 @@ gpsBtn.onclick = () => {
 </script>
 </body>
 </html>
-```
-document
-.getElementById("citySelect")
-.addEventListener("change",(e)=>{
 
-const file = e.target.value;
-
-loadProvince(file);
-
-if(CITY_CENTER[file]){
-
-map.flyTo({
-center:CITY_CENTER[file],
-zoom:11
-});
-
-}
-
-});
 <script>
 git add .
 git commit -m "Vietnam map"
