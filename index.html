@@ -285,6 +285,8 @@ return;
 });
 }
 
+map.on("load",()=>{
+
 fetch(getSelectedCSV())
 .then(r=>r.text())
 .then(text=>{
