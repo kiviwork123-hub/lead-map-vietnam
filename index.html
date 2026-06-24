@@ -198,12 +198,15 @@ mapboxgl.accessToken =
 const GITHUB_BASE =
 "https://raw.githubusercontent.com/kiviwork123-hub/lead-map-data/main/";
 
-const map = new mapboxgl.Map({
-container:"map",
-style:"mapbox://styles/mapbox/light-v11",
-center:[106.7009,10.7769],
-zoom:10
-});
+const CITY_CENTER = {
+"hcm-full.csv":[106.7009,10.7769],
+"ha-noi.csv":[105.8542,21.0285],
+"da-nang.csv":[108.2022,16.0544],
+"dong-nai.csv":[106.8240,10.9453],
+"binh-duong.csv":[106.6570,11.3254],
+"can-tho.csv":[105.7469,10.0452],
+"hai-phong.csv":[106.6881,20.8449]
+};
 
 function csvToGeoJSON(text){
 
@@ -256,6 +259,27 @@ document.getElementById("citySelect").value
 );
 
 }
+function loadProvince(file){
+
+fetch(GITHUB_BASE + file)
+.then(r=>r.text())
+.then(text=>{
+
+const geojson = csvToGeoJSON(text);
+
+document.getElementById("count").innerHTML =
+geojson.features.length.toLocaleString() + " leads";
+
+if(map.getSource("leads")){
+
+map.getSource("leads").setData(geojson);
+
+return;
+}
+
+});
+}
+
 fetch(getSelectedCSV())
 .then(r=>r.text())
 .then(text=>{
@@ -491,9 +515,20 @@ gpsBtn.onclick = () => {
 ```
 document
 .getElementById("citySelect")
-.addEventListener("change",()=>{
+.addEventListener("change",(e)=>{
 
-location.reload();
+const file = e.target.value;
+
+loadProvince(file);
+
+if(CITY_CENTER[file]){
+
+map.flyTo({
+center:CITY_CENTER[file],
+zoom:11
+});
+
+}
 
 });
 <script>
