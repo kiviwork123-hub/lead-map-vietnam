@@ -1,0 +1,227 @@
+lat,lng,bank,tail3,trans,note,pic,district,ward,street,province
+20.389194666666668,106.43377933333333,PVCOM,916,46,Cửa hàng đã có loa,long.vu1,Huyện Kiến Xương,,Đường Trần Nhân Tông,Thái Bình
+20.441094210526316,106.3433805263158,VTB,60,45,,long.vu1,Thành phố Thái Bình,,Ngô Quyền,Thái Bình
+20.446212941176469,106.34563529411766,MBB,116,47,,nghia.pham2,Thành phố Thái Bình,,Lê Quý Đôn,Thái Bình
+20.559949166666666,106.56623833333332,VTB,575,35,Không có loa thực tế,nghia.pham2,Huyện Thái Thụy,,Đường 3 Tháng 2,Thái Bình
+20.435336753246752,106.33191558441557,TCB,470,237,,long.vu1,Thành phố Thái Bình,,Phan Bá Vành,Thái Bình
+20.438418333333335,106.3253825,VCB,962,56,Khách hàng không có nhu cầu,cuong.tran3,Thành phố Thái Bình,,Lý Thái Tổ,Thái Bình
+20.41536125,106.37625625,BIDV,NW9,32,Cây xăng,long.vu1,Huyện Kiến Xương,,Đường tỉnh 458,Thái Bình
+20.624928181818184,106.15050000000001,MBB,635,51,Không có thiết bị loa,nghia.pham2,Huyện Hưng Hà,,Đường Ngự Thiên,Thái Bình
+20.654711,106.32223,MBB,689,31,Không có thực têa,nghia.pham2,Huyện Quỳnh Phụ,,Phố Nguyễn Công Trứ,Thái Bình
+20.438767777777773,106.32942944444444,MBB,409,59,Khách hàng không có nhu cầu,cuong.tran3,Thành phố Thái Bình,,Lý Thái Tổ,Thái Bình
+20.434887500000002,106.32592249999999,BIDV,K30,41,Khách không có nhu cầu,nghia.pham2,Thành phố Thái Bình,,Đường Số 13,Thái Bình
+20.435537222222226,106.3262538888889,TCB,279,65,Không tồn tại,nghia.pham2,Thành phố Thái Bình,,Đường Số 7,Thái Bình
+20.44866882352941,106.33834999999999,TCB,881,34,Cửa hàng đã có loa không muốn lắp thêm,long.vu1,Thành phố Thái Bình,,Trần Nhân Tông,Thái Bình
+20.445539545454551,106.34505272727272,MBB,978,49,Khách không có nhu cầu,nghia.pham2,Thành phố Thái Bình,,Lê Quý Đôn,Thái Bình
+20.405131111111114,106.50372444444444,VTB,999,33,Khách hàng không có nhu cầu,cuong.tran3,Huyện Tiền Hải,,Phố Tiểu Hoàng,Thái Bình
+20.444317666666667,106.34340400000004,TCB,20,88,,long.vu1,Thành phố Thái Bình,,Phố Kỳ Bá,Thái Bình
+20.447465000000005,106.34390928571428,BIDV,CE3,34,,nghia.pham2,Thành phố Thái Bình,,Lê Quý Đôn,Thái Bình
+20.448352222222219,106.34648166666666,OCB,5,45,Khách hàng không có nhu cầu,cuong.tran3,Thành phố Thái Bình,,Lý Thái Tổ,Thái Bình
+20.440434615384614,106.3397623076923,VTB,833,33,Khách hàng khôg có nhu cầu,cuong.tran3,Thành phố Thái Bình,,Lý Bôn,Thái Bình
+20.438303333333334,106.32478199999998,TCB,124,40,Khách hàng không có nhu cầu,cuong.tran3,Thành phố Thái Bình,,Lý Thái Tổ,Thái Bình
+20.65812,106.32724214285714,HDB,26,51,Không có nhu cầu,nghia.pham2,Huyện Quỳnh Phụ,,Đường Đào Đình Luyện,Thái Bình
+20.564491764705881,106.51026352941177,HDB,43,137,Không gặp chủ cửa hàng,nghia.pham2,Huyện Thái Thụy,,Đường tỉnh 456,Thái Bình
+20.436435217391303,106.32434521739133,TCB,855,67,Không có nhu cầu mua thiết bị,nghia.pham2,Thành phố Thái Bình,,Chu Văn An,Thái Bình
+20.40486,106.38210000000001,BIDV,390,48,Cửa hàng đóng cửa,long.vu1,Huyện Kiến Xương,,Đường tỉnh 458,Thái Bình
+20.438469499999997,106.32354674999999,MBB,630,130,Không có cửa hàng,long.vu1,Thành phố Thái Bình,,Quang Trung,Thái Bình
+20.388778124999998,106.43888875,TCB,5,50,,long.vu1,Huyện Kiến Xương,,Đường Trần Nhân Tông,Thái Bình
+20.440115833333337,106.3389425,VTB,678,34,Cửa hàng đã có loa,long.vu1,Thành phố Thái Bình,,Phan Bá Vành,Thái Bình
+20.432571764705887,106.35189705882352,VTB,83,63,Khu thanh toán viện phí viện nhi,long.vu1,Thành phố Thái Bình,,Phố Tôn Thất Tùng,Thái Bình
+20.650937727272726,106.42407545454545,AGRIBANK,126,74,,nghia.pham2,Huyện Quỳnh Phụ,,Phố Đỗ Toại,Thái Bình
+20.5555375,106.35527625,HDB,32,32,Không gặp được chủ cửa hàng,nghia.pham2,Huyện Đông Hưng,,Phố Bùi Sĩ Tiêm,Thái Bình
+20.438685,106.35012833333333,MBB,326,30,,long.vu1,Thành phố Thái Bình,,nguyen tong quai,Thái Bình
+20.440647692307689,106.32306076923076,MBB,340,33,Cửa hàng đã có loa,long.vu1,Thành phố Thái Bình,,Trần Thái Tông,Thái Bình
+20.646456,106.425232,MBB,466,52,Khách không có nhu cầu,nghia.pham2,Huyện Quỳnh Phụ,,Phố Vĩnh Trà,Thái Bình
+20.440890000000003,106.34225666666666,MBB,2,36,,long.vu1,Thành phố Thái Bình,,Ngô Quyền,Thái Bình
+20.4147725,106.49163,PVCOM,924,42,Khách hàng không có nhu cầu,cuong.tran3,Huyện Tiền Hải,,Đường Tây An,Thái Bình
+20.438971538461537,106.33032692307691,TCB,704,36,Khách hang k có nhu cầu,cuong.tran3,Thành phố Thái Bình,,Lý Thái Tổ,Thái Bình
+20.647436,106.32645199999999,MSB,539,30,,nghia.pham2,Huyện Quỳnh Phụ,,Đường Mỹ Hà,Thái Bình
+20.4043662962963,106.50511296296295,OCB,711,44,Không tìm thấy,cuong.tran3,Huyện Tiền Hải,,Đường 14 tháng 10,Thái Bình
+20.4353835,106.3260745,BIDV,619,77,,nghia.pham2,Thành phố Thái Bình,,Đường Số 13,Thái Bình
+20.451141333333336,106.33971933333333,BIDV,819,34,Đã có thiết bị và không có nhu cầu sử dụng dịch vụ,nghia.pham2,Thành phố Thái Bình,,Đường Nguyễn Thị Minh Khai,Thái Bình
+20.38963869565217,106.43150173913044,TCB,973,40,Công ty,long.vu1,Huyện Kiến Xương,,Đường Trần Nhân Tông,Thái Bình
+20.470611499999997,106.3194735,VPB,800000,57,Cây xăng,long.vu1,Thành phố Thái Bình,,Quốc lộ 10,Thái Bình
+20.56166846153846,106.56860076923078,VTB,739,48,Cửa hàng đã có thiết bị,nghia.pham2,Huyện Thái Thụy,,Đường 3 Tháng 2,Thái Bình
+20.683401,106.308537,VTB,681,44,Khách không có nhu cầu,nghia.pham2,Huyện Quỳnh Phụ,,Đường tỉnh 396B,Thái Bình
+20.549199285714288,106.35439214285714,MBB,182,68,Không có nhu cầu mua loa,nghia.pham2,Huyện Đông Hưng,,Phố Nguyễn Thành,Thái Bình
+20.590023636363636,106.22398636363636,MBB,8,45,Không tồn tại thực tế,nghia.pham2,Huyện Hưng Hà,,Đường Long Hưng,Thái Bình
+20.438931764705888,106.33152470588236,BIDV,122,67,Khách hàng không có nhu cầu,cuong.tran3,Thành phố Thái Bình,,Lý Thái Tổ,Thái Bình
+20.656266428571428,106.32501678571428,VIB,158,91,Khách đã có loa,nghia.pham2,Huyện Quỳnh Phụ,,Đường Trần Hưng Đạo,Thái Bình
+20.435100769230772,106.33105769230768,VPB,9DA,75,,long.vu1,Thành phố Thái Bình,,Phan Bá Vành,Thái Bình
+20.452546363636362,106.51281818181816,AGRIBANK,516,31,Không gặp được chủ  cửa hàng,nghia.pham2,Huyện Thái Thụy,,Quốc lộ 37B,Thái Bình
+20.54986,106.3538346153846,TCB,39,37,Không gặp được chủ cửa hàng .,nghia.pham2,Huyện Đông Hưng,,Phố Nguyễn Thành,Thái Bình
+20.436908333333331,106.32775083333333,BIDV,934,150,,nghia.pham2,Thành phố Thái Bình,,Đường Số 7,Thái Bình
+20.398863333333331,106.49775222222222,TCB,629,35,Không tìm thấy,cuong.tran3,Huyện Tiền Hải,,Đường Tạ Xuân Thu,Thái Bình
+20.44766818181818,106.34218,VPB,6V1,36,,nghia.pham2,Thành phố Thái Bình,,Hai Bà Trưng,Thái Bình
+20.438883571428569,106.32934499999999,OCB,4,36,Khách hàng không có nhu cầu,cuong.tran3,Thành phố Thái Bình,,Lý Thái Tổ,Thái Bình
+20.447830000000003,106.34316111111113,BIDV,464,30,,nghia.pham2,Thành phố Thái Bình,,Hai Bà Trưng,Thái Bình
+20.589642857142856,106.22521857142857,MBB,151,32,Công an xã Hưng Hà .,nghia.pham2,Huyện Hưng Hà,,Đường Long Hưng,Thái Bình
+20.43788340425532,106.32574808510638,TCB,498,138,Khách hàng không có nhu cầu,cuong.tran3,Thành phố Thái Bình,,Lý Thái Tổ,Thái Bình
+20.439665714285717,106.33376285714284,VTB,572,38,Khách hàng không có nhu cầu,cuong.tran3,Thành phố Thái Bình,,Lê Thánh Tông,Thái Bình
+20.403259444444441,106.50610555555555,VTB,859,46,Khách hàng không có nhu cầu,cuong.tran3,Huyện Tiền Hải,,Đường 14 tháng 10,Thái Bình
+20.598663333333331,106.15377066666667,MBB,280,36,Không tồn tại,nghia.pham2,Huyện Hưng Hà,,Đường tỉnh 452,Thái Bình
+20.442375833333337,106.34374458333335,VTB,136,65,,long.vu1,Thành phố Thái Bình,,Phố Kỳ Bá,Thái Bình
+20.444952258064514,106.33719483870969,not defined or m2m,255,68,Không tìm thấy thông tin,cuong.tran3,Thành phố Thái Bình,,Lý Bôn,Thái Bình
+20.56414525,106.56097000000001,MBB,678,103,Đã có thiết bị loa thông báo,nghia.pham2,Huyện Thái Thụy,,Phố Trần Hưng Đạo,Thái Bình
+20.443126250000006,106.33061458333331,VPB,10,47,Công viên,long.vu1,Thành phố Thái Bình,,Phạm Thế Hiển,Thái Bình
+20.438815,106.329351,VTB,588,36,Khách hàng không có nhu cầu,cuong.tran3,Thành phố Thái Bình,,Lý Thái Tổ,Thái Bình
+20.401732727272723,106.50734181818184,BIDV,961,46,Khách hàng không có nhu cầu,cuong.tran3,Huyện Tiền Hải,,Đường 14 tháng 10,Thái Bình
+20.445546578947368,106.34504000000001,MBB,85,108,Không có nhu cầu mua thiết bị,nghia.pham2,Thành phố Thái Bình,,Lê Quý Đôn,Thái Bình
+20.58706775,106.23010875000001,OCB,281,82,Không có nhu cầu mua thiết bị,nghia.pham2,Huyện Hưng Hà,,Đường Long Hưng,Thái Bình
+20.624940555555554,106.15049222222221,MBB,322,70,Không tồn tại,nghia.pham2,Huyện Hưng Hà,,Đường Ngự Thiên,Thái Bình
+20.442374857142855,106.34378085714285,VPB,738,68,,long.vu1,Thành phố Thái Bình,,Phố Kỳ Bá,Thái Bình
+20.656958571428572,106.32542285714285,VTB,587,40,Không có nhu cầu mua thiết bị,nghia.pham2,Huyện Quỳnh Phụ,,Đường Trần Hưng Đạo,Thái Bình
+20.444992058823527,106.33711911764706,WOORIBANK,605,75,,cuong.tran3,Thành phố Thái Bình,,Lý Bôn,Thái Bình
+20.3646775,106.45041583333334,VTB,F11,47,Cây xăng,long.vu1,Huyện Kiến Xương,,Quốc lộ 37B,Thái Bình
+20.434457200000004,106.34284200000002,MBB,544,127,Khách hàng không coa nhu cầu,cuong.tran3,Thành phố Thái Bình,,Lý Bôn,Thái Bình
+20.451371875000003,106.34246312499998,OCB,697,50,,nghia.pham2,Thành phố Thái Bình,,Đường Lê Thánh Tông,Thái Bình
+20.434660833333329,106.33001666666667,VTB,523,30,,long.vu1,Thành phố Thái Bình,,Phan Bá Vành,Thái Bình
+20.523892727272727,106.41490272727273,TCB,365,34,Không có thưc tế,nghia.pham2,Huyện Đông Hưng,,Quốc lộ 39,Thái Bình
+20.434266923076922,106.32847230769231,TCB,399,35,,long.vu1,Thành phố Thái Bình,,Phố Bùi Thị Xuân,Thái Bình
+20.437042222222221,106.33504027777778,BIDV,905,72,,long.vu1,Thành phố Thái Bình,,Phan Bá Vành,Thái Bình
+20.433492820512818,106.36499179487178,PVCOM,904,117,,nghia.pham2,Thành phố Thái Bình,,Đường tỉnh 458,Thái Bình
+20.404567,106.382237,not defined or m2m,137,32,Điểm bán là cây xăng đã dùng loa rồi,long.vu1,Huyện Kiến Xương,,Đường tỉnh 458,Thái Bình
+20.433178064516131,106.32571645161291,VCB,303,72,Đã có thiết bị,nghia.pham2,Thành phố Thái Bình,,Chu Văn An,Thái Bình
+20.3894325,106.4417775,not defined or m2m,995,57,Cửa hàng đã có loa,long.vu1,Huyện Kiến Xương,,Đường Trần Nhân Tông,Thái Bình
+20.399981250000003,106.49837041666667,not defined or m2m,358,69,Khách hàng không có nhu cầu,cuong.tran3,Huyện Tiền Hải,,Phố Hùng Thắng,Thái Bình
+20.438156666666664,106.33316466666668,ACB,251,41,,long.vu1,Thành phố Thái Bình,,Ngô Thì Nhậm,Thái Bình
+20.439843200000002,106.3386112,VPB,107,70,Cửa hàng đã có loa,long.vu1,Thành phố Thái Bình,,Phan Bá Vành,Thái Bình
+20.446084,106.34548866666668,VTB,324,57,,nghia.pham2,Thành phố Thái Bình,,Lê Quý Đôn,Thái Bình
+20.403868857142857,106.50062857142856,TCB,16,95,Khách hàng không có nhu cầu,cuong.tran3,Huyện Tiền Hải,,Phố Bùi Sính,Thái Bình
+20.401993529411765,106.5004411764706,VTB,573,72,Khách hàng không có nhu cầu,cuong.tran3,Huyện Tiền Hải,,Phố Tiểu Hoàng,Thái Bình
+20.403539166666668,106.50205416666667,PVCOM,818,30,Khách hàng không có nhu cầu,cuong.tran3,Huyện Tiền Hải,,Phố Tiểu Hoàng,Thái Bình
+20.510466875000002,106.4057125,MBB,988,39,Không có nhựa cầu mua,nghia.pham2,Huyện Đông Hưng,,Quốc lộ 39,Thái Bình
+20.591191111111112,106.22482777777778,BIDV,1MK,33,,nghia.pham2,Huyện Hưng Hà,,Phố Thá,Thái Bình
+20.447501111111116,106.32262222222222,TCB,15,38,,nghia.pham2,Thành phố Thái Bình,,Đường Đại Phú,Thái Bình
+20.439767599999996,106.340414,VPB,168,68,Khacha hàng không có nhu cầu,cuong.tran3,Thành phố Thái Bình,,Lý Bôn,Thái Bình
+20.449007777777776,106.34921666666666,BIDV,467,30,Khách hàng không có nhu cầu,cuong.tran3,Thành phố Thái Bình,,Lý Thái Tổ,Thái Bình
+20.560008571428568,106.56644857142857,VTB,2,36,Khách không có nhu cầu .,nghia.pham2,Huyện Thái Thụy,,Đường 3 Tháng 2,Thái Bình
+20.431782,106.323874,MBB,307,30,Cửa hàng đã có loa,long.vu1,Thành phố Thái Bình,,Phan Bá Vành,Thái Bình
+20.436085833333333,106.45648333333334,VTB,839,30,Cây xăng,long.vu1,Huyện Kiến Xương,,Đường tỉnh 457,Thái Bình
+20.563737777777778,106.56535111111111,MBB,236,30,Không có thực tế,nghia.pham2,Huyện Thái Thụy,,Phố Phạm Thế Hiển,Thái Bình
+20.406837499999998,106.50511750000001,VCB,427,36,Bán trong 100m,cuong.tran3,Huyện Tiền Hải,,Đường Bùi Viện,Thái Bình
+20.37598125,106.446495,BIDV,PM6,31,Cây xăng đã dùng loa rồi không có nhu cầu,long.vu1,Huyện Kiến Xương,,Quốc lộ 37B,Thái Bình
+20.447708333333335,106.33866416666666,VCB,615,79,Cửa hàng đã có loa không muốn lắp thêm,long.vu1,Thành phố Thái Bình,,Trần Hưng Đạo,Thái Bình
+20.560171999999998,106.56684500000001,BIDV,999,44,Khách không có nhu cầu mua loa,nghia.pham2,Huyện Thái Thụy,,Đường 3 Tháng 2,Thái Bình
+20.432509166666666,106.35187124999999,VTB,912,58,Khu thanh toán viện phí viện nhi,long.vu1,Thành phố Thái Bình,,Phố Tôn Thất Tùng,Thái Bình
+20.441790952380948,106.3397638095238,MBB,500,76,Khách hàng không có nhu cầu,cuong.tran3,Thành phố Thái Bình,,Lý Bôn,Thái Bình
+20.432082631578947,106.57704052631578,VTB,444,80,Khách hàng không có nhu cầu,cuong.tran3,Huyện Tiền Hải,,Đường tỉnh 464,Thái Bình
+20.648920625000002,106.424941875,TCB,813,32,,nghia.pham2,Huyện Quỳnh Phụ,,Đường Trần Hưng Đạo,Thái Bình
+20.441464333333332,106.35027133333334,TCB,980,81,Không gặp được chủ .,nghia.pham2,Thành phố Thái Bình,,Đường số 14 Trần Lãm,Thái Bình
+20.556434166666666,106.4943475,MBB,644,60,Cửa hàng dùng loa khác,nghia.pham2,Huyện Thái Thụy,,Đường tỉnh 456,Thái Bình
+20.434382857142857,106.34337142857143,MBB,748,32,Cửa hàng đã có loa,long.vu1,Thành phố Thái Bình,,nguyen tong quai,Thái Bình
+20.438952647058827,106.33061117647057,MBB,992,70,Khách hàng không có nhu cầu,cuong.tran3,Thành phố Thái Bình,,Lý Thái Tổ,Thái Bình
+20.458946153846153,106.33458076923075,MBB,166,52,,nghia.pham2,Thành phố Thái Bình,,Lê Quý Đôn,Thái Bình
+20.590087500000003,106.22318583333333,MBB,sa2,53,Đã có thiết bị trước đó,nghia.pham2,Huyện Hưng Hà,,Đường Trần Thái Tông,Thái Bình
+20.651975200000003,106.42632800000001,BIDV,855,80,,nghia.pham2,Huyện Quỳnh Phụ,,Phố Đỗ Toại,Thái Bình
+20.439645555555558,106.32156555555557,MBB,199,38,Siêu thị Go mart,long.vu1,Thành phố Thái Bình,,Trần Thái Tông,Thái Bình
+20.445601666666668,106.34226583333334,VTB,425,31,Khách hàng không có nhu cầu,cuong.tran3,Thành phố Thái Bình,,Lê Thánh Tông,Thái Bình
+20.450568571428576,106.33997107142859,VTB,231,127,Khách hàng không có nhu cầu,cuong.tran3,Thành phố Thái Bình,,Lê Thánh Tông,Thái Bình
+20.449432368421057,106.34547315789473,HDB,9,123,,nghia.pham2,Thành phố Thái Bình,,Hai Bà Trưng,Thái Bình
+20.565742,106.57673899999999,BIDV,66,38,Cửa hàng đã có loa,nghia.pham2,Huyện Thái Thụy,,Đường tỉnh 461,Thái Bình
+20.409706923076925,106.5045176923077,TCB,825,35,Khách hàng không có nhu cầu,cuong.tran3,Huyện Tiền Hải,,Đường Nguyễn Công Trứ,Thái Bình
+20.43830125,106.33670500000001,TCB,387,45,,long.vu1,Thành phố Thái Bình,,Phan Bá Vành,Thái Bình
+20.403274999999997,106.50610200000001,BIDV,2V1,47,,cuong.tran3,Huyện Tiền Hải,,Đường 14 tháng 10,Thái Bình
+20.396202,106.50162599999999,VTB,403,70,Khách hàng không có nhu cầu,cuong.tran3,Huyện Tiền Hải,,Đường Tạ Xuân Thu,Thái Bình
+20.448466842105258,106.34121736842104,VCB,908,39,,long.vu1,Thành phố Thái Bình,,Trần Hưng Đạo,Thái Bình
+20.388773333333333,106.43904066666667,VTB,888,36,Cửa hàng đã có loa,long.vu1,Huyện Kiến Xương,,Đường Trần Nhân Tông,Thái Bình
+20.437619375,106.324018125,VTB,581,32,Đã có thiết bị,nghia.pham2,Thành phố Thái Bình,,Chu Văn An,Thái Bình
+20.320370952380951,106.43588714285714,TCB,995,63,,long.vu1,Huyện Kiến Xương,,Quốc lộ 37B,Thái Bình
+20.442905,106.33618000000001,MBB,198,41,,long.vu1,Thành phố Thái Bình,,Quang Trung,Thái Bình
+20.439816969696967,106.33857909090908,VPB,312,92,Cửa hàng đã có loa,long.vu1,Thành phố Thái Bình,,Phan Bá Vành,Thái Bình
+20.616193333333335,106.14929333333333,BIDV,602,33,Đã có thiết bị,nghia.pham2,Huyện Hưng Hà,,Phố Lê Thái Tổ,Thái Bình
+20.51238375,106.36281749999999,SACOM,103,31,Không có thực tế,nghia.pham2,Huyện Đông Hưng,,Quốc lộ 10,Thái Bình
+20.431599374999998,106.34396562499998,PVCOM,824,70,Khách hàng không có nhu cầu,cuong.tran3,Thành phố Thái Bình,,Lý Bôn,Thái Bình
+20.594707058823531,106.60862235294117,VTB,F11,57,Không gặp chủ cửa hàng,nghia.pham2,Huyện Thái Thụy,,Đường tỉnh 461,Thái Bình
+20.398915833333337,106.50336250000001,VCB,546,35,Khách hàng không có nhu cầu,cuong.tran3,Huyện Tiền Hải,,Phố Vũ Nhu,Thái Bình
+20.319842857142856,106.43521571428572,MBB,798,30,Bán thành công loa cho cửa hàng Dương Hiền cách 50m,long.vu1,Huyện Kiến Xương,,Quốc lộ 37B,Thái Bình
+20.440028684210528,106.3329507894737,VCB,230,140,Không gặp được chủ cửa hàng,long.vu1,Thành phố Thái Bình,,Quang Trung,Thái Bình
+20.44188033333333,106.33980033333333,BIDV,953,83,,cuong.tran3,Thành phố Thái Bình,,Lý Bôn,Thái Bình
+20.436053333333334,106.32767416666665,TCB,930,36,,long.vu1,Thành phố Thái Bình,,Phố Bùi Thị Xuân,Thái Bình
+20.435123396226416,106.33136471698114,MBB,666,182,,long.vu1,Thành phố Thái Bình,,Phan Bá Vành,Thái Bình
+20.444605454545453,106.33433766233766,VPB,828,199,Khách hàng đã có loa chưa có nhu cầu lắp thêm,long.vu1,Thành phố Thái Bình,,Trần Hưng Đạo,Thái Bình
+20.44366,106.34225277777779,BIDV,556,97,,long.vu1,Thành phố Thái Bình,,Phố Kỳ Bá,Thái Bình
+20.443645974025976,106.34226688311686,MBB,960,259,,long.vu1,Thành phố Thái Bình,,Phố Kỳ Bá,Thái Bình
+20.458602162162158,106.33438297297299,TCB,478,87,,nghia.pham2,Thành phố Thái Bình,,Lê Quý Đôn,Thái Bình
+20.422015789473683,106.37274210526314,HDB,118,57,Cây xăng,long.vu1,Huyện Kiến Xương,,Đường tỉnh 458,Thái Bình
+20.589770714285713,106.22508285714287,VCB,670,63,Không gặp được chủ cửa hàng,nghia.pham2,Huyện Hưng Hà,,Đường Long Hưng,Thái Bình
+20.579468965517243,106.24370724137931,PVCOM,950,79,,nghia.pham2,Huyện Hưng Hà,,Quốc lộ 39,Thái Bình
+20.438623157894739,106.3371105263158,TCB,241,41,,long.vu1,Thành phố Thái Bình,,Phan Bá Vành,Thái Bình
+20.565517619047618,106.35761619047619,BIDV,6M2,80,Khách không lắp loa,nghia.pham2,Huyện Đông Hưng,,QL 10, Đông La,Thái Bình
+20.562448749999998,106.56653916666667,MBB,932,81,Không có thực tế,nghia.pham2,Huyện Thái Thụy,,Đường Nguyễn Đức Cảnh,Thái Bình
+20.55693411764706,106.55851352941177,TCB,647,35,Không có nhu cầu mua thiết bị,nghia.pham2,Huyện Thái Thụy,,Đường 3 Tháng 2,Thái Bình
+20.447307666666667,106.32162200000003,MBB,163,51,Không có nhu cầu,nghia.pham2,Thành phố Thái Bình,,Đường Đại Phú,Thái Bình
+20.549100588235294,106.35621764705881,TCB,345,74,Không tồn tại thiết bị,nghia.pham2,Huyện Đông Hưng,,Phố Bùi Sĩ Tiêm,Thái Bình
+20.40227904761905,106.50184333333334,TCB,908,60,Khách hàng không có nhu cầu,cuong.tran3,Huyện Tiền Hải,,Phố Lương Văn Sảng,Thái Bình
+20.590586666666667,106.22689833333334,MBB,41,30,Không gặp được chủ cửa hàng,nghia.pham2,Huyện Hưng Hà,,Phố Trần Thủ Độ,Thái Bình
+20.439327674418603,106.3501030232558,TCB,15,110,,nghia.pham2,Thành phố Thái Bình,,Lê Quý Đôn,Thái Bình
+20.636153124999996,106.40709125,PVCOM,954,50,Không có nhu cầu,nghia.pham2,Huyện Quỳnh Phụ,,QL 10, An Lê,Thái Bình
+20.443462777777778,106.35361722222223,VPB,792,69,,long.vu1,Thành phố Thái Bình,,Phố Đốc Đen,Thái Bình
+20.59311625,106.223969375,VCB,939,44,Khách không có nhu cầu mua loa đồ đã có thiết bị,nghia.pham2,Huyện Hưng Hà,,Phố Trần Thánh Tông,Thái Bình
+20.440571111111112,106.34930555555555,SHB,337,30,Không gặp được chủ cửa hàng,nghia.pham2,Thành phố Thái Bình,,Lê Quý Đôn,Thái Bình
+20.650409999999997,106.42375583333333,VTB,59,33,,nghia.pham2,Huyện Quỳnh Phụ,,Đường Phạm Như Trinh,Thái Bình
+20.438426428571429,106.32536714285716,MSB,571,33,Khách hàng không có nhu cầu,cuong.tran3,Thành phố Thái Bình,,Lý Thái Tổ,Thái Bình
+20.440031851851852,106.33885074074074,BIDV,307,88,Cửa hàng đã có loa,long.vu1,Thành phố Thái Bình,,Phan Bá Vành,Thái Bình
+20.448218750000002,106.32234625,TCB,118,44,,nghia.pham2,Thành phố Thái Bình,,Đường Đại Phú,Thái Bình
+20.434566666666669,106.34371777777778,BIDV,758,40,Cửa hàng đã có loa,long.vu1,Thành phố Thái Bình,,nguyen tong quai,Thái Bình
+20.525978333333331,106.20722166666668,MBB,696,36,,nghia.pham2,Huyện Hưng Hà,,Đường tỉnh 223, Minh Hòa,Thái Bình
+20.435404444444444,106.33207777777778,VTB,663,32,,long.vu1,Thành phố Thái Bình,,Phan Bá Vành,Thái Bình
+20.454042799999996,106.3392672,BIDV,504,66,Điểm bán không tồn tại,long.vu1,Thành phố Thái Bình,,Trần Thái Tông,Thái Bình
+20.440034761904766,106.33295095238094,VPB,681,89,Cửa hàng kinh doanh internet và bi-a không gặp được chủ cửa hàng,long.vu1,Thành phố Thái Bình,,Quang Trung,Thái Bình
+20.44811,106.33602,VPB,03A,41,Cửa hàng Tô Hoài Đức 
+Địa chỉ: 440 Lê Thánh Tông  Bồ Xuyên  Thái Bình,long.vu1,Thành phố Thái Bình,,Trần Nhân Tông,Thái Bình
+20.436035277777776,106.32769166666665,VCB,646,114,,long.vu1,Thành phố Thái Bình,,Phố Bùi Thị Xuân,Thái Bình
+20.38823375,106.4431525,VTB,828,55,Cửa hàng đã có loa,long.vu1,Huyện Kiến Xương,,Đường Nguyễn Du,Thái Bình
+20.4530575,106.343525,MBB,434,38,Không tồn tại,nghia.pham2,Thành phố Thái Bình,,Đường Lê Thánh Tông,Thái Bình
+20.449443333333335,106.34308666666668,TCB,989,41,,nghia.pham2,Thành phố Thái Bình,,Lê Quý Đôn,Thái Bình
+20.644372352941179,106.32987235294118,VTB,F11,57,,nghia.pham2,Huyện Quỳnh Phụ,,Đường Nguyễn Du,Thái Bình
+20.448931500000004,106.3232595,SACOM,159,61,,nghia.pham2,Thành phố Thái Bình,,Đường Đại Phú,Thái Bình
+20.440774615384615,106.33999846153846,VPB,986,48,Không tìm thấy cửa hàng,long.vu1,Thành phố Thái Bình,,Ngõ 417,Thái Bình
+20.438475652173913,106.35071826086957,TCB,368,42,,nghia.pham2,Thành phố Thái Bình,,Lê Quý Đôn,Thái Bình
+20.439354642857143,106.34085,VPB,429,100,Không tìm thấy cửa hàng,long.vu1,Thành phố Thái Bình,,Ngô Quyền,Thái Bình
+20.606048750000003,106.154590625,MBB,630,45,,nghia.pham2,Huyện Hưng Hà,,Đường tỉnh 452,Thái Bình
+20.562445714285715,106.56883285714285,VTB,666,36,Hẹn dịp sau khi vó nhu cầu .,nghia.pham2,Huyện Thái Thụy,,Đường 3 Tháng 2,Thái Bình
+20.437629,106.328766,OCB,526,43,Khách hàng không có nhu cầu,nghia.pham2,Thành phố Thái Bình,,Đường Kỳ Đồng,Thái Bình
+20.439569166666665,106.33826458333334,VCB,857,61,Cửa hàng đã có loa,long.vu1,Thành phố Thái Bình,,Phan Bá Vành,Thái Bình
+20.438723809523811,106.3502042857143,MBB,840,67,,long.vu1,Thành phố Thái Bình,,nguyen tong quai,Thái Bình
+20.441046875,106.340435625,TCB,38,41,Cửa hàng đã có loa,long.vu1,Thành phố Thái Bình,,Ngõ 417,Thái Bình
+20.392142142857146,106.44787071428571,HDB,41,43,Cây xăng,long.vu1,Huyện Kiến Xương,,Đường Trần Nhân Tông,Thái Bình
+20.44910538461539,106.33670384615384,BIDV,4P1,40,,nghia.pham2,Thành phố Thái Bình,,Đường Nguyễn Thị Minh Khai,Thái Bình
+20.47374875,106.35725749999999,VTB,886,52,Khách hàng không có nhu cầu,cuong.tran3,Thành phố Thái Bình,,Long Hưng,Thái Bình
+20.320195999999996,106.43619699999999,TCB,832,35,Cửa hàng: Hoàng Văn Dương 
+Ngân hàng Agribank
+Số tk: 3403205426755
+Địa chỉ: quốc lộ 37b xã bình thanh,long.vu1,Huyện Kiến Xương,,Quốc lộ 37B,Thái Bình
+20.44657511363636,106.34469931818181,VPB,828,244,Không có thực tế,nghia.pham2,Thành phố Thái Bình,,Lê Quý Đôn,Thái Bình
+20.438803829787236,106.32983914893617,OCB,757,106,Khách hàng hông có nhu cầu,cuong.tran3,Thành phố Thái Bình,,Lý Thái Tổ,Thái Bình
+20.439315833333332,106.33799416666668,VTB,68,35,Cửa hàng đã có loa,long.vu1,Thành phố Thái Bình,,Phan Bá Vành,Thái Bình
+20.434482380952385,106.34283714285715,VPB,E4C,77,,cuong.tran3,Thành phố Thái Bình,,Lý Bôn,Thái Bình
+20.43243,106.34863,VCB,703,41,Bệnh viện ko dùng loa,long.vu1,Thành phố Thái Bình,,Phố Phạm Ngọc Thạch,Thái Bình
+20.444154736842105,106.34840105263157,OCB,882,63,,long.vu1,Thành phố Thái Bình,,Ngô Quyền,Thái Bình
+20.593705217391307,106.21498956521739,ACB,432,66,Không có nhu cầu mua thiết bị,nghia.pham2,Huyện Hưng Hà,,Đường Long Hưng,Thái Bình
+20.396147333333332,106.50166866666667,BIDV,790,53,Khách hàng không có nhu cầu,cuong.tran3,Huyện Tiền Hải,,Đường Tạ Xuân Thu,Thái Bình
+20.438688571428571,106.35013142857143,TCB,10,41,,long.vu1,Thành phố Thái Bình,,nguyen tong quai,Thái Bình
+20.485535333333335,106.26119666666668,HDB,123,45,Đã có loa,long.vu1,Huyện Vũ Thư,,ĐT454,Thái Bình
+20.58615375,106.15677875,MBB,250,47,Khách không có nhu cầu mua thiết bị,nghia.pham2,Huyện Hưng Hà,,Đường tỉnh 452,Thái Bình
+20.439681875000005,106.321859375,VCCB,428,44,Siêu thị Go mart,long.vu1,Thành phố Thái Bình,,Trần Thái Tông,Thái Bình
+20.506593076923078,106.54737923076924,VTB,42,49,Không  tồn tại thực tế,nghia.pham2,Huyện Thái Thụy,,Quốc lộ 37B,Thái Bình
+20.435308333333332,106.33192416666667,TCB,686,53,,long.vu1,Thành phố Thái Bình,,Phan Bá Vành,Thái Bình
+20.437640000000002,106.33580846153846,BIDV,371,33,,long.vu1,Thành phố Thái Bình,,Phan Bá Vành,Thái Bình
+20.402572105263154,106.50560421052631,BIDV,118,50,Khách hàng không có nhu cầu,cuong.tran3,Huyện Tiền Hải,,Phố Đặng Văn Khoan,Thái Bình
+20.4441,106.343351,MBB,49,34,Công viên: không tồn tại điểm bán,long.vu1,Thành phố Thái Bình,,Phố Kỳ Bá,Thái Bình
+20.454762,106.33261266666666,VTB,666,41,Khách hàng không có nhu cầu,cuong.tran3,Thành phố Thái Bình,,Lý Bôn,Thái Bình
+20.556591578947366,106.49539684210527,VTB,886,43,Không có nhu cầu mua thiết bị,nghia.pham2,Huyện Thái Thụy,,Đường tỉnh 456,Thái Bình
+20.440410869565216,106.3421495652174,VCB,868,62,Cửa hàng đã có loa,long.vu1,Thành phố Thái Bình,,Ngô Quyền,Thái Bình
+20.4393275,106.35007999999999,VTB,320,42,,nghia.pham2,Thành phố Thái Bình,,Lê Quý Đôn,Thái Bình
+20.434861666666666,106.33040583333334,TCB,72,42,,long.vu1,Thành phố Thái Bình,,Phan Bá Vành,Thái Bình
+20.441083636363633,106.3394596969697,AGRIBANK,B9D,85,Khách hàng không có nhu cầu,cuong.tran3,Thành phố Thái Bình,,Lý Bôn,Thái Bình
+20.612638333333337,106.14922666666666,VPB,199,30,Không có thực tế,nghia.pham2,Huyện Hưng Hà,,Phố Trần Thái Tông,Thái Bình
+20.441165319148936,106.34463638297869,HDB,30,267,,long.vu1,Thành phố Thái Bình,,Ngô Quyền,Thái Bình
+20.440422499999997,106.334599,TCB,682,38,Khách hàng không có nhu cầu,cuong.tran3,Thành phố Thái Bình,,Lê Thánh Tông,Thái Bình
+20.436017692307693,106.32778153846154,TPB,301,53,,long.vu1,Thành phố Thái Bình,,Phố Bùi Thị Xuân,Thái Bình
+20.55212176470588,106.55951235294118,TCB,849,58,Đã có thiết bị,nghia.pham2,Huyện Thái Thụy,,Đường Phạm Ngũ Lão,Thái Bình
+20.438905714285713,106.32918071428571,VPB,224,38,,cuong.tran3,Thành phố Thái Bình,,Lý Thái Tổ,Thái Bình
+20.44198,106.33990723404256,MBB,104,126,,cuong.tran3,Thành phố Thái Bình,,Lý Bôn,Thái Bình
+20.654383636363637,106.43224,MBB,200,37,,nghia.pham2,Huyện Quỳnh Phụ,,Đường Trần Hưng Đạo,Thái Bình
+20.4344125,106.28842312500001,BIDV,538,40,Địa điểm là khu hành chính công vũ thư,long.vu1,Huyện Vũ Thư,,Nguyễn Trãi,Thái Bình
+20.51602,106.40995999999998,TPB,43,33,Không có nhu cầu mua thiêt bị,nghia.pham2,Huyện Đông Hưng,,Quốc lộ 39,Thái Bình

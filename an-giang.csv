@@ -1,0 +1,393 @@
+lat,lng,bank,tail3,trans,note,pic,district,ward,street,province
+10.378522857142858,105.42580142857143,MBB,212,29,,,Thành phố Long Xuyên,,Hà Hoàng Hổ,An Giang
+10.436446,105.396218,MSB,800,16,,,Huyện Châu Thành,,Lê Lợi,An Giang
+10.380461666666667,105.43429999999998,VCB,477,18,,,Thành phố Long Xuyên,,Bùi Văn Danh,An Giang
+10.61578,105.210825,VTB,S01,10,,,Huyện Châu Phú,,Quốc lộ 91,An Giang
+10.371540909090909,105.43644818181818,BIDV,749,41,K tìm thấy,nhu.nguyen15,Thành phố Long Xuyên,,Lý Thái Tổ,An Giang
+10.701885,105.12913,VCB,105,18,,,Thành phố Châu Đốc,,Phan Đình Phùng,An Giang
+10.677722857142856,105.07165142857143,OCB,462,17,,,Thành phố Châu Đốc,,Phạm Văn Bạch,An Giang
+10.379087142857143,105.43952,MBB,478,26,,,Thành phố Long Xuyên,,Nguyễn Thị Minh Khai,An Giang
+10.372552727272726,105.43739363636362,TCB,999,36,K tìm thấy,nhu.nguyen15,Thành phố Long Xuyên,,Lý Thái Tổ,An Giang
+10.375490588235294,105.4384932352941,TCB,991,135,Không tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Hãi Thượng Lãn Ông,An Giang
+10.3786725,105.42664625,OCB,99,20,,,Thành phố Long Xuyên,,Hà Hoàng Hổ,An Giang
+10.40728043478261,105.41943304347826,TCB,260,58,Khách hàng sử dụng 1 loại quen r k muốn sử dụng thêm,nhu.nguyen15,Thành phố Long Xuyên,,Trần Hưng Đạo,An Giang
+10.370973777777778,105.45193777777777,TPB,1,107,,,Thành phố Long Xuyên,,Triệu Quang Phục,An Giang
+10.371573157894737,105.43655210526315,ACB,486,74,K tìm thấy,nhu.nguyen15,Thành phố Long Xuyên,,Lý Thái Tổ,An Giang
+10.382672,105.443924,MBB,898,40,Chưa tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Bạch Đằng,An Giang
+10.380104000000001,105.44071,TCB,688,21,,,Thành phố Long Xuyên,,Nguyễn Thị Minh Khai,An Giang
+10.593516666666666,105.35363,BIDV,AM8,16,,,Huyện Phú Tân,,Tôn Đức Thắng,An Giang
+10.371366666666667,105.43638666666666,TCB,602,26,,,Thành phố Long Xuyên,,Lý Thái Tổ,An Giang
+10.422545,105.0033,MSB,201,22,,,Huyện Tri Tôn,,Đường tỉnh 941,An Giang
+10.376681666666666,105.4363711111111,AGRIBANK,45,55,K tìm thấy,nhu.nguyen15,Thành phố Long Xuyên,,Võ Thị Sáu,An Giang
+10.373516153846154,105.43301076923078,VCB,268,33,K tìm thấy,nhu.nguyen15,Thành phố Long Xuyên,,Ung Văn Khiêm,An Giang
+10.442104545454548,105.17162636363638,not defined or m2m,537,38,,,Huyện Châu Thành,,Đường tỉnh 941,An Giang
+10.392565,105.42701,TCB,322,11,,,Thành phố Long Xuyên,,Trần Hưng Đạo,An Giang
+10.377502857142858,105.43159714285714,TCB,37,19,,,Thành phố Long Xuyên,,Ung Văn Khiêm,An Giang
+10.367535714285715,105.43943142857142,TPB,601,16,,,Thành phố Long Xuyên,,Ung Văn Khiêm,An Giang
+10.724696666666667,105.11448,ACB,486,16,,,Huyện An Phú,,Đường tỉnh 957,An Giang
+10.37705,105.43645684210526,VIB,727,60,K tìm thấy mc,nhu.nguyen15,Thành phố Long Xuyên,,Võ Thị Sáu,An Giang
+10.585112857142859,105.35691714285714,VTB,443,11,,,Huyện Phú Tân,,Trần Phú,An Giang
+10.379694166666667,105.44189833333334,VTB,886,24,,,Thành phố Long Xuyên,,Trần Nguyên Hãn,An Giang
+10.377404999999998,105.43795250000001,MSB,923,27,,,Thành phố Long Xuyên,,Hãi Thượng Lãn Ông,An Giang
+10.379723333333333,105.44109333333334,MBB,940,13,,,Thành phố Long Xuyên,,Nguyễn Trãi,An Giang
+10.372264999999999,105.434565,TCB,85,13,,,Thành phố Long Xuyên,,Ung Văn Khiêm,An Giang
+10.392074615384617,105.41842307692309,TCB,541,34,Không tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Cường Để,An Giang
+10.709409999999998,105.11764777777779,VCB,665,19,,,Thành phố Châu Đốc,,Thủ Khoa Nghĩa,An Giang
+10.385773571428572,105.43629357142858,SACOM,891,31,K tìm thấy mc,nhu.nguyen15,Thành phố Long Xuyên,,Tôn Đức Thắng,An Giang
+10.37071,105.4362,TCB,351,12,,,Thành phố Long Xuyên,,Ung Văn Khiêm,An Giang
+10.58265,105.356812,SACOM,221,15,,,Huyện Phú Tân,,Phạm Văn Đồng,An Giang
+10.456133333333334,105.29711047619047,SACOM,128,82,,,Huyện Châu Thành,,Đường tỉnh 941,An Giang
+10.607238181818181,104.94739909090909,BIDV,763,24,,,Huyện Tịnh Biên,,Lý Thái Tổ,An Giang
+10.376326842105263,105.43631999999998,MBB,359,72,K tìm thấy,nhu.nguyen15,Thành phố Long Xuyên,,Võ Thị Sáu,An Giang
+10.705160833333334,105.11622750000001,TPB,123,40,,,Thành phố Châu Đốc,,Đường Trưng Nữ Vương,An Giang
+10.376859999999999,105.44050399999999,ACB,80,12,,,Thành phố Long Xuyên,,Trần Hưng Đạo,An Giang
+10.37702,105.43645000000001,MBB,2fg,21,,,Thành phố Long Xuyên,,Võ Thị Sáu,An Giang
+10.697425,105.1255125,VCB,227,12,,,Thành phố Châu Đốc,,Nguyễn Tri Phương,An Giang
+10.364314444444446,105.45071555555556,VTB,767,46,,nhu.nguyen15,Thành phố Long Xuyên,,Trần Hưng Đạo,An Giang
+10.382686249999997,105.4408975,NCB,801,55,,,Thành phố Long Xuyên,,Nguyễn Văn Cưng,An Giang
+10.379296,105.440632,MBB,534,14,,,Thành phố Long Xuyên,,Nguyễn Trãi,An Giang
+10.375602352941176,105.43843058823529,SHB,J51,52,Chưa tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Hãi Thượng Lãn Ông,An Giang
+10.376420769230769,105.4363676923077,TCB,3,45,K tìm thấy,nhu.nguyen15,Thành phố Long Xuyên,,Võ Thị Sáu,An Giang
+10.371403333333333,105.4355,TCB,649,11,,,Thành phố Long Xuyên,,Ung Văn Khiêm,An Giang
+10.585763076923076,105.3554923076923,SACOM,919,51,,,Huyện Phú Tân,,Nguyễn Văn Cừ,An Giang
+10.800552000000001,105.247114,SACOM,618,13,,,Huyện Tân Châu,,Trần Hưng Đạo,An Giang
+10.377814999999998,105.432335,VCB,114,14,,,Thành phố Long Xuyên,,Hà Hoàng Hổ,An Giang
+10.39675425,105.42255000000002,ACB,994,109,,,Thành phố Long Xuyên,,Nguyễn Trường Tộ,An Giang
+10.378286,105.432198,MBB,151,16,,,Thành phố Long Xuyên,,Ngô Văn Sở,An Giang
+10.428745384615384,105.00178230769231,ABB,890,43,,,Huyện Tri Tôn,,Trần Hưng Đạo,An Giang
+10.707402499999999,105.12121392857142,MSB,739,78,,,Thành phố Châu Đốc,,Phan Đình Phùng,An Giang
+10.707798750000002,105.12473125,VCB,407,19,,,Thành phố Châu Đốc,,Lê Lợi,An Giang
+10.38954,105.42309,TCB,717,29,,,Thành phố Long Xuyên,,Võ Văn Hoài,An Giang
+10.708183636363637,105.11772909090908,VTB,732,40,,,Thành phố Châu Đốc,,Thủ Khoa Huân,An Giang
+10.797737058823527,105.24259000000002,BIDV,369,42,,,Huyện Tân Châu,,Tôn Đức Thắng,An Giang
+10.8682275,105.183035,SACOM,380,14,,,Huyện Tân Châu,,QL. 80B,An Giang
+10.38278,105.42580749999999,TCB,808,11,,,Thành phố Long Xuyên,,Nguyễn Hoàng,An Giang
+10.373090704225351,105.4336846478873,MBB,560,205,K tìm thấy,nhu.nguyen15,Thành phố Long Xuyên,,Ung Văn Khiêm,An Giang
+10.680416000000001,105.155972,VPB,639,10,,,Huyện Châu Phú,,Quốc lộ 91,An Giang
+10.37229,105.43461,SACOM,745,10,,,Thành phố Long Xuyên,,Ung Văn Khiêm,An Giang
+10.545120416666668,105.40311541666665,MBB,434,91,,,Huyện Chợ Mới,,Nguyễn Hữu Cảnh,An Giang
+10.795593333333334,105.2407675,OCB,800,29,,,Huyện Tân Châu,,Huỳnh Tấn Phát,An Giang
+10.375407142857142,105.43618428571429,OCB,18,31,K tìm thấy,nhu.nguyen15,Thành phố Long Xuyên,,Võ Thị Sáu,An Giang
+10.369084375,105.435218125,TCB,887,56,Không tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Dương Bạch Mai,An Giang
+10.391416,105.422512,TCB,60,12,,,Thành phố Long Xuyên,,Đường Thành Thái,An Giang
+10.3847938028169,105.43668197183098,SACOM,734,154,K tìm thấy MC,nhu.nguyen15,Thành phố Long Xuyên,,Trần Hưng Đạo,An Giang
+10.3653475,105.44607500000001,BIDV,343,20,,,Thành phố Long Xuyên,,Phạm Cự Lượng,An Giang
+10.461757500000001,105.34341625,OJB,583,33,,,Huyện Châu Thành,,Quốc lộ 91,An Giang
+10.79515,105.24156,NAB,711,17,,,Huyện Tân Châu,,Nguyễn Lương Bằng,An Giang
+10.395470675675675,105.42439648648647,TCB,626,197,K gặp dc chủ shop,nhu.nguyen15,Thành phố Long Xuyên,,Trần Hưng Đạo,An Giang
+10.602675714285715,104.94918142857144,MSB,786,18,,,Huyện Tịnh Biên,,Hữu Nghị,An Giang
+10.585475714285714,105.35734000000001,BIDV,952,22,,,Huyện Phú Tân,,Lê Duẩn,An Giang
+10.443264285714285,105.38768999999999,VTB,598,33,,,Huyện Châu Thành,,Lê Lợi,An Giang
+10.385398333333333,105.43651,ACB,458,22,,,Thành phố Long Xuyên,,Tôn Đức Thắng,An Giang
+10.4491325,105.37537,VTB,RA0,23,,,Huyện Châu Thành,,Nguyễn Văn Linh,An Giang
+10.691322,105.340952,VTB,722,13,,,Huyện Phú Tân,,QL. 80B,An Giang
+10.719357647058821,105.12862058823529,VCB,364,34,,,Huyện Tân Châu,,Cầu Châu Phong,An Giang
+10.889206666666665,105.04266666666666,VTB,979,15,,,Huyện An Phú,,Đường tỉnh 957,An Giang
+10.798860000000001,105.24567,MBB,bl6,10,,,Huyện Tân Châu,,Tôn Đức Thắng,An Giang
+10.380447499999999,105.44644124999999,VTB,999,36,K tìm thấy mc,nhu.nguyen15,Thành phố Long Xuyên,,Lý Thái Tổ,An Giang
+10.37654,105.43636333333333,VCB,377,28,,,Thành phố Long Xuyên,,Võ Thị Sáu,An Giang
+10.69665,105.0996775,MBB,266,18,,,Thành phố Châu Đốc,,Tân Lộ Kiều Lương,An Giang
+10.467770909090909,105.33943090909091,MBB,542,41,,,Huyện Châu Thành,,Quốc lộ 91,An Giang
+10.377476875000003,105.437724375,SACOM,101,126,Chưa tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Hãi Thượng Lãn Ông,An Giang
+10.376475714285714,105.43634285714286,KLB,389,21,,,Thành phố Long Xuyên,,Võ Thị Sáu,An Giang
+10.38091375,105.43936,VCB,362,28,,,Thành phố Long Xuyên,,Trần Hưng Đạo,An Giang
+10.375435555555555,105.43622444444443,TCB,367,44,K tìm thấy,nhu.nguyen15,Thành phố Long Xuyên,,Võ Thị Sáu,An Giang
+10.790726666666666,105.23069333333333,ACB,686,14,,,Huyện Tân Châu,,Nguyễn Tri Phương,An Giang
+10.380379999999999,105.436912,MBB,409,69,K tìm thấy MC,nhu.nguyen15,Thành phố Long Xuyên,,Bùi Thị Xuân,An Giang
+10.44379,105.3884425,MBB,274,25,,,Huyện Châu Thành,,Tôn Thất Thuyết,An Giang
+10.377833571428571,105.43235857142858,VCCB,235,44,Không tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Hà Hoàng Hổ,An Giang
+10.378155999999999,105.437218,ACB,28,33,Chưa tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Hà Hoàng Hổ,An Giang
+10.705817692307692,105.12432076923078,VCB,699,39,,,Thành phố Châu Đốc,,Phan Đình Phùng,An Giang
+10.379727142857142,105.43402285714285,MBB,40,39,Không tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Bùi Văn Danh,An Giang
+10.4231925,105.00323375,AGRIBANK,604,21,,,Huyện Tri Tôn,,Đường tỉnh 941,An Giang
+10.389199999999999,105.434856,TCB,169,32,K tìm thấy mc,nhu.nguyen15,Thành phố Long Xuyên,,Tôn Đức Thắng,An Giang
+10.376885999999999,105.43643800000001,TPB,339,43,K tìm thấy,nhu.nguyen15,Thành phố Long Xuyên,,Võ Thị Sáu,An Giang
+10.42745,104.99507,AGRIBANK,438,10,,,Huyện Tri Tôn,,Nguyễn Thị Minh Khai,An Giang
+10.457106666666666,105.29530833333334,MBB,937,18,,,Huyện Châu Thành,,Đường tỉnh 941,An Giang
+10.696114999999999,105.12537,MBB,612,14,,,Thành phố Châu Đốc,,Mậu Thân,An Giang
+10.385804285714284,105.43633428571428,VPB,117,30,K tìm thấy mc,nhu.nguyen15,Thành phố Long Xuyên,,Tôn Đức Thắng,An Giang
+10.369221363636365,105.43776,MBB,375,65,,nhu.nguyen15,Thành phố Long Xuyên,,Ung Văn Khiêm,An Giang
+10.79665142857143,105.23802742857141,OCB,605,106,,,Huyện Tân Châu,,Nguyễn Tri Phương,An Giang
+10.381096818181819,105.44011818181818,VIB,10,60,Không tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Nguyễn Huệ B,An Giang
+10.371906,105.45218700000001,TCB,570,25,,,Thành phố Long Xuyên,,Triệu Quang Phục,An Giang
+10.37724625,105.43470624999999,VCB,752,29,,,Thành phố Long Xuyên,,Trần Bình Trọng,An Giang
+10.383561,105.44305999999999,MBB,8,42,Chưa tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Lê Thị Nhiên,An Giang
+10.421121999999999,104.999776,VTB,938,16,,,Huyện Tri Tôn,,Nguyễn Trãi,An Giang
+10.3760425,105.44714,BIDV,690,14,,,Thành phố Long Xuyên,,Phạm Ngũ Lão,An Giang
+10.4017,105.41966,TPB,939,14,,,Thành phố Long Xuyên,,Đường Trần Hưng Đạo,An Giang
+10.37970375,105.4373175,TCB,207,31,K tìm thấy mC,nhu.nguyen15,Thành phố Long Xuyên,,Bùi Thị Xuân,An Giang
+10.575386153846154,105.23700230769231,MBB,884,35,,,Huyện Châu Phú,,Quốc lộ 91,An Giang
+10.393729444444446,105.42815888888889,not defined or m2m,941,96,,,Thành phố Long Xuyên,,Quản Cơ Thành,An Giang
+10.384842727272728,105.43371181818183,VTB,169,43,Không tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Cô Giang,An Giang
+10.3782775,105.44300750000001,TCB,798,14,,,Thành phố Long Xuyên,,Lý Thái Tổ,An Giang
+10.7041125,105.1213775,SACOM,558,10,,,Thành phố Châu Đốc,,Thủ Khoa Huân,An Giang
+10.388604444444445,105.41560777777778,MBB,574,22,,,Thành phố Long Xuyên,,Lê Hoàn,An Giang
+10.372913534482759,105.44375241379312,TCB,881,389,K tìm thấy mc,nhu.nguyen15,Thành phố Long Xuyên,,Trần Hưng Đạo,An Giang
+10.380862500000001,105.44172625,MSB,48,34,K tìm thấy mc,nhu.nguyen15,Thành phố Long Xuyên,,Nguyễn Thị Minh Khai,An Giang
+10.36548125,105.44630375,MBB,172,34,,,Thành phố Long Xuyên,,Phạm Cự Lượng,An Giang
+10.3656125,105.44682,AGRIBANK,321,28,,,Thành phố Long Xuyên,,Phạm Cự Lượng,An Giang
+10.3764,105.434695,TCB,15,30,,,Thành phố Long Xuyên,,Trần Khánh Dư,An Giang
+10.45763,105.29435,TPB,888,12,,,Huyện Châu Thành,,Đường tỉnh 941,An Giang
+10.38095,105.44055285714286,SACOM,755,19,,,Thành phố Long Xuyên,,Hùng Vương,An Giang
+10.38024,105.4409575,BIDV,266,30,K tìm thấy mc,nhu.nguyen15,Thành phố Long Xuyên,,Nguyễn Thị Minh Khai,An Giang
+10.377604814814816,105.42980407407407,ACB,798,92,Không tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Hà Hoàng Hổ,An Giang
+10.393087777777778,105.42668333333333,VIB,332,23,,,Thành phố Long Xuyên,,Trần Hưng Đạo,An Giang
+10.682387272727272,105.08008545454547,ACB,57,47,,,Thành phố Châu Đốc,,Phạm Văn Bạch,An Giang
+10.382057272727273,105.43361181818182,KLB,a57,51,Không tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Cô Bắc,An Giang
+10.368335000000002,105.45439125,MBB,556,40,Chưa tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Dương Đình Nghệ,An Giang
+10.364822352941177,105.44047627450979,BIDV,958,126,,nhu.nguyen15,Thành phố Long Xuyên,,Ung Văn Khiêm,An Giang
+10.7192925,105.31944,MBB,q2m,13,,,Huyện Phú Tân,,QL. 80B,An Giang
+10.3956,105.42206,VCCB,55,31,Không tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Nguyễn Khắc Nhu,An Giang
+10.392100000000001,105.42141923076923,KLB,589,34,K tìm thấy,nhu.nguyen15,Thành phố Long Xuyên,,Cao Thắng,An Giang
+10.703498,105.114244,TCB,14,24,,,Thành phố Châu Đốc,,Đường Trưng Nữ Vương,An Giang
+10.385874444444445,105.43627444444445,MBB,565,31,L tìm thấy MC,nhu.nguyen15,Thành phố Long Xuyên,,Tôn Đức Thắng,An Giang
+10.384228333333335,105.44148,MBB,773,20,,,Thành phố Long Xuyên,,Lê Minh Nguơn,An Giang
+10.373777500000001,105.436245,VTB,247,38,Không tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Đường cặp rạch Cái Sơn,An Giang
+10.443273888888886,105.38774555555555,SACOM,300,69,,,Huyện Châu Thành,,Lê Lợi,An Giang
+10.378136,105.437179,ABB,39,38,Không tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Hà Hoàng Hổ,An Giang
+10.375479090909092,105.43620545454544,MBB,500,29,,,Thành phố Long Xuyên,,Võ Thị Sáu,An Giang
+10.70828,105.11766,VTB,678,12,,,Thành phố Châu Đốc,,Thủ Khoa Huân,An Giang
+10.578298571428572,105.35706285714285,BIDV,7P3,24,,,Huyện Phú Tân,,Tôn Đức Thắng,An Giang
+10.385150714285714,105.43623595238097,TCB,152,125,K tìm thấy MC,nhu.nguyen15,Thành phố Long Xuyên,,Trần Hưng Đạo,An Giang
+10.711438235294118,105.1157888235294,TPB,545,63,,,Thành phố Châu Đốc,,Thủ Khoa Nghĩa,An Giang
+10.376934782608696,105.43644173913043,TCB,333,96,K tìm thấy mc,nhu.nguyen15,Thành phố Long Xuyên,,Võ Thị Sáu,An Giang
+10.365502307692307,105.44629846153846,not defined or m2m,675,32,,,Thành phố Long Xuyên,,Phạm Cự Lượng,An Giang
+10.79771,105.239285,MBB,n3a,11,,,Huyện Tân Châu,,Nguyễn Tri Phương,An Giang
+10.34708,105.49162666666666,TCB,936,18,,,Huyện Chợ Mới,,ĐT. 946,An Giang
+10.388507272727271,105.43709999999999,TCB,41,44,K tìm thấy mc,nhu.nguyen15,Thành phố Long Xuyên,,Nguyễn Thái Học,An Giang
+10.377135,105.43426166666666,TCB,114,27,,,Thành phố Long Xuyên,,Trần Bình Trọng,An Giang
+10.462342000000001,105.452894,VTB,946,21,,,Huyện Chợ Mới,,ĐT. 946,An Giang
+10.54630388888889,105.39554944444446,MSB,646,39,,,Huyện Chợ Mới,,Nguyễn Huệ,An Giang
+10.58041745098039,105.3627131372549,MBB,984,123,,,Huyện Phú Tân,,Chu Văn An,An Giang
+10.375942222222221,105.4362238888889,VCB,779,49,K tìm thấy,nhu.nguyen15,Thành phố Long Xuyên,,Võ Thị Sáu,An Giang
+10.38284,105.4426325,TCB,313,13,,,Thành phố Long Xuyên,,Lê Minh Nguơn,An Giang
+10.38044,105.4418875,MBB,939,30,Chưa tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Lương Vãn Cù,An Giang
+10.385326666666666,105.43758333333334,MBB,532,35,Không tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Bạch Hổ,An Giang
+10.37652733333333,105.436357,MBB,530,117,K tìm thấy,nhu.nguyen15,Thành phố Long Xuyên,,Võ Thị Sáu,An Giang
+10.379383333333335,105.44073666666667,MBB,248,53,K tìm thấy MC,nhu.nguyen15,Thành phố Long Xuyên,,Nguyễn Trãi,An Giang
+10.367859199999998,105.43921959999999,TCB,372,74,,nhu.nguyen15,Thành phố Long Xuyên,,Ung Văn Khiêm,An Giang
+10.376151428571429,105.43383571428571,VCCB,877,38,,,Thành phố Long Xuyên,,Trần Khánh Dư,An Giang
+10.371899090909091,105.43760909090908,VTB,886,22,,,Thành phố Long Xuyên,,Lý Thái Tổ,An Giang
+10.375295000000001,105.43897750000001,VIB,644,13,,,Thành phố Long Xuyên,,Hãi Thượng Lãn Ông,An Giang
+10.382274333333333,105.44175633333336,TCB,624,77,K tìm thấy mc,nhu.nguyen15,Thành phố Long Xuyên,,Hai Bà Trưng,An Giang
+10.456233636363635,105.29684272727275,MSB,657,44,,,Huyện Châu Thành,,Đường tỉnh 941,An Giang
+10.794379999999999,105.24176909090909,SACOM,311,25,,,Huyện Tân Châu,,Tôn Thất Tùng,An Giang
+10.706330000000001,105.12042666666666,MBB,232,15,,,Thành phố Châu Đốc,,Thủ Khoa Huân,An Giang
+10.374540833333334,105.43622166666667,MBB,498,30,Không tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Đường cặp rạch Cái Sơn,An Giang
+10.371478750000001,105.43607374999999,VCB,128,32,K tìm thấy,nhu.nguyen15,Thành phố Long Xuyên,,Lý Thái Tổ,An Giang
+10.373758333333331,105.43835666666666,not defined or m2m,694,43,K tìm thấy,nhu.nguyen15,Thành phố Long Xuyên,,Lý Thái Tổ,An Giang
+10.795723333333333,105.23697666666666,OCB,260,14,,,Huyện Tân Châu,,Nguyễn Tri Phương,An Giang
+10.376071111111111,105.43628888888888,BIDV,102,31,K tìm thấy,nhu.nguyen15,Thành phố Long Xuyên,,Võ Thị Sáu,An Giang
+10.271102857142857,105.26818999999999,VTB,493,31,,,Huyện Thoại Sơn,,Nguyễn Huệ,An Giang
+10.366659,105.448191,not defined or m2m,160,38,,,Thành phố Long Xuyên,,Phạm Cự Lượng,An Giang
+10.379148888888889,105.44033999999999,NCB,701,36,K tìm thấy mc,nhu.nguyen15,Thành phố Long Xuyên,,Nguyễn Trãi,An Giang
+10.372984545454544,105.43352545454546,TCB,994,60,K tìm thấy,nhu.nguyen15,Thành phố Long Xuyên,,Ung Văn Khiêm,An Giang
+10.443512857142858,105.38980428571429,SACOM,84,38,,,Huyện Châu Thành,,Nguyễn Văn Cừ,An Giang
+10.374544615384615,105.43241076923078,TCB,376,96,K tìm thấy mc,nhu.nguyen15,Thành phố Long Xuyên,,Ung Văn Khiêm,An Giang
+10.3831775,105.44261499999999,VTB,952,21,,,Thành phố Long Xuyên,,Nguyễn Huệ B,An Giang
+10.373249,105.436651,TCB,205,35,Không tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Đường cặp rạch Cái Sơn,An Giang
+10.707596428571428,105.12503785714286,BIDV,485,37,,,Thành phố Châu Đốc,,Lê Lợi,An Giang
+10.712783333333334,105.11911,VPB,615,12,,,Thành phố Châu Đốc,,Trần Hưng Đạo,An Giang
+10.389184444444444,105.43785555555556,AGRIBANK,439,34,K tìm thấy mc,nhu.nguyen15,Thành phố Long Xuyên,,Nguyễn Thái Học,An Giang
+10.374778062015503,105.43261217054264,TCB,43,373,K tìm thấy mc,nhu.nguyen15,Thành phố Long Xuyên,,Võ Thị Sáu,An Giang
+10.35599,105.37234,MBB,245,35,,,Huyện Thoại Sơn,,Trần Phú,An Giang
+10.378708750000001,105.4267175,VCCB,642,28,,,Thành phố Long Xuyên,,Hà Hoàng Hổ,An Giang
+10.451293333333332,105.23265666666666,MBB,458,16,,,Huyện Châu Thành,,Đường tỉnh 941,An Giang
+10.394061999999998,105.41926400000001,VIB,748,21,,,Thành phố Long Xuyên,,Nguyễn Trường Tộ,An Giang
+10.39165,105.41620499999999,MBB,774,24,,,Thành phố Long Xuyên,,Hàm Nghi,An Giang
+10.385623684210527,105.46185578947369,VTB,970,66,,,Huyện Chợ Mới,,ĐT. 946,An Giang
+10.377417499999998,105.441825,TCB,949,42,K tìm thấy mc,nhu.nguyen15,Thành phố Long Xuyên,,Lý Thái Tổ,An Giang
+10.375216,105.432988,EXIM,546,25,,,Thành phố Long Xuyên,,Võ Thị Sáu,An Giang
+10.376351666666666,105.43634833333333,NAB,986,35,K tìm thấy,nhu.nguyen15,Thành phố Long Xuyên,,Võ Thị Sáu,An Giang
+10.7002875,105.112385,VTB,665,10,,,Thành phố Châu Đốc,,Trưng Nữ Vương,An Giang
+10.370344444444443,105.45025666666666,TCB,262,31,,,Thành phố Long Xuyên,,Triệu Quang Phục,An Giang
+10.3702325,105.47990750000001,ACB,809,17,,,Huyện Chợ Mới,,ĐT. 946,An Giang
+10.387116666666667,105.42430333333334,VCB,802,15,,,Thành phố Long Xuyên,,Nguyễn Hoàng,An Giang
+10.36821,105.44788333333334,PVCOM,320,18,,,Thành phố Long Xuyên,,Triệu Quang Phục,An Giang
+10.364855,105.4295825,MBB,836,10,,,Thành phố Long Xuyên,,Đường vạnh đai trong,An Giang
+10.388751666666668,105.437345,NCB,201,14,,,Thành phố Long Xuyên,,Nguyễn Thái Học,An Giang
+10.372573529411765,105.43413235294119,not defined or m2m,708,38,K tìm thấy mc,nhu.nguyen15,Thành phố Long Xuyên,,Ung Văn Khiêm,An Giang
+10.376519090909092,105.43635545454545,MBB,572,72,K tìm thấy,nhu.nguyen15,Thành phố Long Xuyên,,Võ Thị Sáu,An Giang
+10.708545714285714,105.12048285714286,TPB,999,12,,,Thành phố Châu Đốc,,Phan Đình Phùng,An Giang
+10.785284,105.257697,PVCOM,603,21,,,Huyện Tân Châu,,Trần Hưng Đạo,An Giang
+10.37682142857143,105.43641571428572,MSB,619,26,,,Thành phố Long Xuyên,,Võ Thị Sáu,An Giang
+10.375365151515151,105.4370084848485,not defined or m2m,341,118,Không tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Đường cặp rạch Cái Sơn,An Giang
+10.70836375,105.12006625000001,VTB,S01,25,,,Thành phố Châu Đốc,,Đường Trưng Nữ Vương,An Giang
+10.383311666666666,105.43740166666667,TCB,888,18,,,Thành phố Long Xuyên,,Cầu Hoàng Diệu,An Giang
+10.590588,105.25124,MBB,236,31,,,Huyện Phú Tân,,ĐT. 951,An Giang
+10.38312,105.44020499999999,VPB,828,40,K tìm thấy mc,nhu.nguyen15,Thành phố Long Xuyên,,Ngô Gia Tự,An Giang
+10.703075384615385,105.12251615384616,TPB,869,45,,,Thành phố Châu Đốc,,Thủ Khoa Huân,An Giang
+10.378833333333333,105.43580333333333,ACB,888,21,,,Thành phố Long Xuyên,,Trần Quang Diệu,An Giang
+10.345692,105.466292,VCB,736,14,,,Thành phố Long Xuyên,,Trần Hưng Đạo,An Giang
+10.38932875,105.43456875000001,TCB,504,26,,,Thành phố Long Xuyên,,Lý Thường Kiệt,An Giang
+10.458010000000002,105.293745,MSB,668,30,,,Huyện Châu Thành,,Đường tỉnh 941,An Giang
+10.70225,105.13299,VPB,899,20,,,Thành phố Châu Đốc,,Tôn Đức Thắng,An Giang
+10.393389090909091,105.42633818181817,VIB,247,29,,,Thành phố Long Xuyên,,Trần Hưng Đạo,An Giang
+10.387045555555556,105.43583666666667,TCB,929,30,K thìm thấy MC,nhu.nguyen15,Thành phố Long Xuyên,,Tôn Đức Thắng,An Giang
+10.69889,105.11869,HDB,42,32,,,Thành phố Châu Đốc,,Hoàng Diệu,An Giang
+10.70299,105.12783333333333,MBB,108,18,,,Thành phố Châu Đốc,,Phan Đình Phùng,An Giang
+10.390295,105.43704,VCB,974,12,,,Thành phố Long Xuyên,,Lê Lợi,An Giang
+10.379435,105.44080249999999,VCB,395,13,,,Thành phố Long Xuyên,,Nguyễn Trãi,An Giang
+10.388433999999998,105.437138,VCB,524,18,,,Thành phố Long Xuyên,,Nguyễn Thái Học,An Giang
+10.579858181818182,105.35887545454544,BIDV,685,31,,,Huyện Phú Tân,,Lê Duẩn,An Giang
+10.50974,105.48847333333333,VIB,12,14,,,Huyện Chợ Mới,,Châu Văn Liêm,An Giang
+10.393184800000002,105.43175959999999,SACOM,319,67,,,Thành phố Long Xuyên,,Nguyễn Thanh Sơn,An Giang
+10.374132857142856,105.43861071428572,MBB,914,51,K tìm thấy,nhu.nguyen15,Thành phố Long Xuyên,,Lý Thái Tổ,An Giang
+10.378092727272726,105.43587363636362,BIDV,305,33,Không tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Hà Hoàng Hổ,An Giang
+10.444069999999998,105.38375551724138,MBB,814,77,,,Huyện Châu Thành,,Lê Lợi,An Giang
+10.380924285714286,105.44052571428571,TCB,204,24,,,Thành phố Long Xuyên,,Hùng Vương,An Giang
+10.390555,105.43710464285714,TCB,875,79,K tìm thấy mc,nhu.nguyen15,Thành phố Long Xuyên,,Lê Lợi,An Giang
+10.375212000000001,105.43211866666667,VCCB,710,42,K tìm thấy đc,nhu.nguyen15,Thành phố Long Xuyên,,Ung Văn Khiêm,An Giang
+10.704134285714284,105.13602,TCB,999,15,,,Thành phố Châu Đốc,,Châu Long,An Giang
+10.4634,105.45564,SACOM,901,10,,,Huyện Chợ Mới,,ĐT. 946,An Giang
+10.371828333333333,105.43485833333334,OCB,551,26,,,Thành phố Long Xuyên,,Ung Văn Khiêm,An Giang
+10.3634352,105.4428296,MSB,1,70,,,Thành phố Long Xuyên,,Phạm Cự Lượng,An Giang
+10.443597500000001,105.38592500000001,BIDV,895,17,,,Huyện Châu Thành,,Lê Lợi,An Giang
+10.36549,105.446342,not defined or m2m,543,30,,,Thành phố Long Xuyên,,Phạm Cự Lượng,An Giang
+10.382825714285714,105.44262285714288,NCB,701,19,,,Thành phố Long Xuyên,,Lê Minh Nguơn,An Giang
+10.707728965517243,105.1243501724138,TPB,900,137,,,Thành phố Châu Đốc,,Trần Nguyên Hãn,An Giang
+10.710731111111111,105.12067666666665,TPB,852,32,,,Thành phố Châu Đốc,,Lê Lợi,An Giang
+10.374542380952382,105.43237476190477,TCB,328,89,K tìm thấy mc,nhu.nguyen15,Thành phố Long Xuyên,,Ung Văn Khiêm,An Giang
+10.421086666666666,105.00063499999999,VTB,969,25,,,Huyện Tri Tôn,,Trần Hưng Đạo,An Giang
+10.378775,105.43503999999999,MSB,353,48,K tìm thấy MC,nhu.nguyen15,Thành phố Long Xuyên,,Trần Quang Diệu,An Giang
+10.377970666666668,105.43409666666666,VCB,380,46,Không tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Hà Hoàng Hổ,An Giang
+10.3784,105.42740249999999,OCB,196,60,Không tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Hà Hoàng Hổ,An Giang
+10.373955,105.43859833333335,TCB,676,20,,,Thành phố Long Xuyên,,Lý Thái Tổ,An Giang
+10.710783333333332,105.12073166666667,TPB,813,45,,,Thành phố Châu Đốc,,Lê Lợi,An Giang
+10.70754,105.12133,VCB,856,48,,,Thành phố Châu Đốc,,Phan Đình Phùng,An Giang
+10.380016363636365,105.4371459090909,VCB,470,113,K tìm thấy MC,nhu.nguyen15,Thành phố Long Xuyên,,Bùi Thị Xuân,An Giang
+10.37104,105.43684875000001,MBB,430,29,,,Thành phố Long Xuyên,,Lý Thái Tổ,An Giang
+10.391305,105.4363025,VTB,169,13,,,Thành phố Long Xuyên,,Lê Lợi,An Giang
+10.550326,105.395142,BIDV,882,19,,,Huyện Chợ Mới,,ĐT. 942,An Giang
+10.372245294117647,105.45162,TCB,531,66,,,Thành phố Long Xuyên,,Triệu Quang Phục,An Giang
+10.375433333333334,105.44136999999999,MBB,958,12,,,Thành phố Long Xuyên,,Hãi Thượng Lãn Ông,An Giang
+10.382526666666669,105.43920833333331,TPB,462,24,,,Thành phố Long Xuyên,,Đường Trần Hưng Đạo - Đường Hùng Vương,An Giang
+10.377718333333334,105.431715,VCB,992,23,,,Thành phố Long Xuyên,,Hà Hoàng Hổ,An Giang
+10.37154,105.40383,VCB,674,15,,,Thành phố Long Xuyên,,ĐT. 943,An Giang
+10.393466428571429,105.42344714285716,SACOM,999,47,Không tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Hàm Nghi,An Giang
+10.36846,105.43567,VCB,674,15,,,Thành phố Long Xuyên,,Dương Bạch Mai,An Giang
+10.79656,105.23724,SACOM,171,15,,,Huyện Tân Châu,,Nguyễn Công Nhàn,An Giang
+10.702058333333335,105.11339916666665,VTB,819,38,,,Thành phố Châu Đốc,,Đường Trưng Nữ Vương,An Giang
+10.37525,105.44116199999999,MBB,746,16,,,Thành phố Long Xuyên,,Hãi Thượng Lãn Ông,An Giang
+10.38316,105.44115400000001,MSB,416,15,,,Thành phố Long Xuyên,,Hai Bà Trưng,An Giang
+10.706692631578948,105.11838157894738,TPB,900,52,,,Thành phố Châu Đốc,,Đường Trưng Nữ Vương,An Giang
+10.38947875,105.43324999999999,PVCOM,122,35,K tìm thấy shop,nhu.nguyen15,Thành phố Long Xuyên,,Lê Hồng Phong,An Giang
+10.379533,105.440804,MSB,942,23,,,Thành phố Long Xuyên,,Nguyễn Trãi,An Giang
+10.348481818181819,105.46352727272726,VIB,248,22,,,Thành phố Long Xuyên,,Trần Hưng Đạo,An Giang
+10.70684,105.12254538461538,VCCB,1,44,,,Thành phố Châu Đốc,,Phan Đình Phùng,An Giang
+10.380563333333333,105.44224666666668,TCB,872,14,,,Thành phố Long Xuyên,,Nguyễn Trãi,An Giang
+10.384085454545456,105.44175090909091,MBB,288,31,K tìm thấy mc,nhu.nguyen15,Thành phố Long Xuyên,,Phan Đình Phùng,An Giang
+10.705950625000002,105.12423375000002,VTB,974,35,,,Thành phố Châu Đốc,,Phan Đình Phùng,An Giang
+10.71344,105.11395,MBB,164,10,,,Thành phố Châu Đốc,,Thủ Khoa Nghĩa,An Giang
+10.391798125,105.41728375,SACOM,513,36,Không tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Hàm Nghi,An Giang
+10.392729999999998,105.4272938888889,TCB,896,62,,,Thành phố Long Xuyên,,Quản Cơ Thành,An Giang
+10.70773,105.11809142857143,HDB,770,60,,,Thành phố Châu Đốc,,Thủ Khoa Huân,An Giang
+10.38114,105.43422333333332,TPB,663,54,Không tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Lê Văn Nhung,An Giang
+10.364714583333333,105.44072645833334,VIB,50,105,,nhu.nguyen15,Thành phố Long Xuyên,,Ung Văn Khiêm,An Giang
+10.706885,105.12258375,VCCB,794,17,,,Thành phố Châu Đốc,,Phan Đình Phùng,An Giang
+10.38539,105.43681,TCB,1,10,,,Thành phố Long Xuyên,,Tôn Đức Thắng,An Giang
+10.380716363636363,105.44174545454545,BIDV,159,36,Chưa tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Lương Vãn Cù,An Giang
+10.370674444444445,105.43623555555556,MSB,906,84,,nhu.nguyen15,Thành phố Long Xuyên,,Ung Văn Khiêm,An Giang
+10.37539,105.43847,MSB,309,18,,,Thành phố Long Xuyên,,Hãi Thượng Lãn Ông,An Giang
+10.682945,105.08368750000001,TPB,616,60,,,Thành phố Châu Đốc,,Tân Lộ Kiều Lương,An Giang
+10.376968571428572,105.43645714285714,TCB,393,64,K tìm thấy mc,nhu.nguyen15,Thành phố Long Xuyên,,Võ Thị Sáu,An Giang
+10.373832941176468,105.43833352941176,TCB,754,72,K tòm thấy,nhu.nguyen15,Thành phố Long Xuyên,,Lý Thái Tổ,An Giang
+10.382047777777778,105.44103666666666,MSB,564,37,Không tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Nguyễn Huệ A,An Giang
+10.502401666666668,105.49420666666666,VCB,282,22,,,Huyện Chợ Mới,,Nguyễn Văn Hưởng,An Giang
+10.39207,105.41824,TCB,691,13,,,Thành phố Long Xuyên,,Hàm Nghi,An Giang
+10.706584285714285,105.123295,BIDV,892,35,,,Thành phố Châu Đốc,,Phan Đình Phùng,An Giang
+10.375293333333333,105.43625833333333,TPB,662,19,,,Thành phố Long Xuyên,,Đường cặp rạch Cái Sơn,An Giang
+10.389721818181819,105.45769818181817,TCB,82,34,,,Huyện Chợ Mới,,ĐT. 946,An Giang
+10.7074875,105.11832125000001,ACB,371,31,,,Thành phố Châu Đốc,,Thủ Khoa Huân,An Giang
+10.383747333333334,105.43738333333333,WOORIBANK,824,61,Không tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Đường Trần Hưng Đạo,An Giang
+10.340116666666667,105.4728,AGRIBANK,51,11,,,Thành phố Long Xuyên,,Trần Hưng Đạo,An Giang
+10.949326666666666,105.08204,AGRIBANK,510,18,,,Huyện An Phú,,Đường tỉnh 957,An Giang
+10.383698947368421,105.42532631578948,MBB,164,63,Không tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Nguyễn Hoàng,An Giang
+10.4870225,104.90449,VTB,886,16,,,Huyện Tri Tôn,,Ngoạ Long Sơn,An Giang
+10.789883333333332,105.23035333333333,SACOM,24,27,,,Huyện Tân Châu,,Nguyễn Tri Phương,An Giang
+10.371579473684212,105.43652684210527,TCB,46,60,K tìm thấy,nhu.nguyen15,Thành phố Long Xuyên,,Lý Thái Tổ,An Giang
+10.39315,105.42112125,OCB,239,19,,,Thành phố Long Xuyên,,Hàm Nghi,An Giang
+10.443055000000001,105.38880499999999,MSB,872,15,,,Huyện Châu Thành,,Lê Lợi,An Giang
+10.71127,105.1174,MBB,164,10,,,Thành phố Châu Đốc,,Sương Nguyệt Anh,An Giang
+10.689425,105.14901499999999,VTB,767,16,,,Thành phố Châu Đốc,,Phùng Văn Cung,An Giang
+10.697315,105.1025625,AGRIBANK,93,18,,,Thành phố Châu Đốc,,Tân Lộ Kiều Lương,An Giang
+10.36851,105.448391,VCB,446,24,,,Thành phố Long Xuyên,,Triệu Quang Phục,An Giang
+10.383334074074073,105.42548111111111,MBB,85i,87,Không tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Nguyễn Hoàng,An Giang
+10.705575000000001,105.1248025,VCB,171,43,,,Thành phố Châu Đốc,,Phan Đình Phùng,An Giang
+10.377680000000002,105.442218,TCB,130,21,,,Thành phố Long Xuyên,,Lý Thái Tổ,An Giang
+10.386335862068966,105.42618827586206,TCB,234,104,K tìm thấy shop,nhu.nguyen15,Thành phố Long Xuyên,,Trần Quang Diệu,An Giang
+10.798379642857142,105.24680178571427,VCB,897,98,,,Huyện Tân Châu,,Tôn Đức Thắng,An Giang
+10.3688425,105.433785,VIB,979,54,,nhu.nguyen15,Thành phố Long Xuyên,,Nguyễn Văn Linh,An Giang
+10.372646666666666,105.43747666666665,TCB,731,20,,,Thành phố Long Xuyên,,Lý Thái Tổ,An Giang
+10.418077692307691,104.99965923076923,TCB,28,35,,,Huyện Tri Tôn,,Trần Phú,An Giang
+10.705646666666668,105.12450166666665,OCB,915,36,,,Thành phố Châu Đốc,,Phan Đình Phùng,An Giang
+10.38080857142857,105.44063857142858,VCCB,364,24,,,Thành phố Long Xuyên,,Hùng Vương,An Giang
+10.706687777777779,105.12288555555556,VCB,979,33,,,Thành phố Châu Đốc,,Phan Đình Phùng,An Giang
+10.369788,105.438274,MSB,967,26,,,Thành phố Long Xuyên,,Ung Văn Khiêm,An Giang
+10.39237,105.41898833333335,TCB,904,18,,,Thành phố Long Xuyên,,Hàm Nghi,An Giang
+10.387279999999999,105.43331208333333,SACOM,461,50,K tìm thấy mc,nhu.nguyen15,Thành phố Long Xuyên,,Trần Hưng Đạo,An Giang
+10.371505714285714,105.43645642857143,TCB,601,38,K tìm thấy,nhu.nguyen15,Thành phố Long Xuyên,,Lý Thái Tổ,An Giang
+10.381767142857143,105.43198857142856,TPB,837,18,,,Thành phố Long Xuyên,,Bùi Văn Danh,An Giang
+10.373441315789472,105.43857999999999,VIB,660,89,K tìm thấy,nhu.nguyen15,Thành phố Long Xuyên,,Lý Thái Tổ,An Giang
+10.383586363636363,105.44287090909091,MBB,144,29,,,Thành phố Long Xuyên,,Nguyễn Huệ A,An Giang
+10.376935714285715,105.44149857142857,VCB,221,24,,,Thành phố Long Xuyên,,Lê Văn Hưu,An Giang
+10.382253428571428,105.42561057142858,TCB,202,100,Không tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Nguyễn Hoàng,An Giang
+10.394913333333333,105.4297275,BIDV,528,33,,,Thành phố Long Xuyên,,Quản Cơ Thành,An Giang
+10.391244,105.422278,TCB,311,28,,,Thành phố Long Xuyên,,Nguyễn Thượng Hiền,An Giang
+10.37226590909091,105.43451454545455,MBB,656,51,K tìm thấy mc,nhu.nguyen15,Thành phố Long Xuyên,,Ung Văn Khiêm,An Giang
+10.379161428571427,105.44041714285713,MBB,992,34,K tìm thấy MC,nhu.nguyen15,Thành phố Long Xuyên,,Nguyễn Trãi,An Giang
+10.372054666666665,105.45233,TCB,8,34,,,Thành phố Long Xuyên,,Triệu Quang Phục,An Giang
+10.376672972972978,105.43637972972972,PVCOM,705,116,K tìm thấy,nhu.nguyen15,Thành phố Long Xuyên,,Võ Thị Sáu,An Giang
+10.703356666666666,105.12742833333333,TPB,666,15,,,Thành phố Châu Đốc,,Phan Đình Phùng,An Giang
+10.3767,105.43640333333333,PVCOM,728,15,,,Thành phố Long Xuyên,,Võ Thị Sáu,An Giang
+10.375204,105.43540800000001,SHB,533,12,,,Thành phố Long Xuyên,,Võ Thị Sáu,An Giang
+10.363373076923077,105.44250230769231,MBB,224,36,,,Thành phố Long Xuyên,,Phạm Cự Lượng,An Giang
+10.37576611111111,105.43188333333332,TCB,969,47,K tìm thấy,nhu.nguyen15,Thành phố Long Xuyên,,Ung Văn Khiêm,An Giang
+10.395881176470589,105.42145529411765,MBB,358,35,,,Thành phố Long Xuyên,,Nguyễn Trường Tộ,An Giang
+10.706233333333333,105.12255833333334,OCB,609,23,,,Thành phố Châu Đốc,,Phan Đình Phùng,An Giang
+10.377035714285714,105.43302571428572,TCB,478,17,,,Thành phố Long Xuyên,,Trần Bình Trọng,An Giang
+10.3752775,105.435685,MBB,792,13,,,Thành phố Long Xuyên,,Võ Thị Sáu,An Giang
+10.3683325,105.43880250000001,SACOM,982,15,,,Thành phố Long Xuyên,,Ung Văn Khiêm,An Giang
+10.378551111111111,105.44348,TCB,688,36,K tìm thấy mc,nhu.nguyen15,Thành phố Long Xuyên,,Lý Thái Tổ,An Giang
+10.265075555555555,105.26569,OCB,420,22,,,Huyện Thoại Sơn,,Nguyễn Huệ,An Giang
+10.385262352941178,105.43761588235296,TCB,862,128,Không tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Bạch Hổ,An Giang
+10.365725000000001,105.44658,MBB,609,17,,,Thành phố Long Xuyên,,Phạm Cự Lượng,An Giang
+10.36424025,105.45071625,MBB,457,92,,nhu.nguyen15,Thành phố Long Xuyên,,Trần Hưng Đạo,An Giang
+10.391712,105.424496,TCB,593,37,,,Thành phố Long Xuyên,,Tôn Thất Thuyết,An Giang
+10.708258571428571,105.11685,VCB,172,18,,,Thành phố Châu Đốc,,Nguyễn Văn Thoại,An Giang
+10.379723333333333,105.44156,MBB,290,30,K tìm thấy mc,nhu.nguyen15,Thành phố Long Xuyên,,Hùng Vương,An Giang
+10.7188625,105.11886875,VCB,397,30,,,Huyện An Phú,,Quốc lộ 91C,An Giang
+10.373060624999999,105.433510625,TPB,868,64,K tìm thấy mc,nhu.nguyen15,Thành phố Long Xuyên,,Ung Văn Khiêm,An Giang
+10.373237272727273,105.44344727272727,TCB,751,28,,,Thành phố Long Xuyên,,Trần Hưng Đạo,An Giang
+10.389439285714285,105.43327,TPB,312,27,,,Thành phố Long Xuyên,,Lê Hồng Phong,An Giang
+10.503922499999998,105.49135749999999,TCB,586,20,,,Huyện Chợ Mới,,Nguyễn Quang Sáng,An Giang
+10.70581611111111,105.12416944444442,TPB,862,48,,,Thành phố Châu Đốc,,Nguyễn Trường Tộ,An Giang
+10.37824,105.43602,VCCB,96,12,,,Thành phố Long Xuyên,,Hà Hoàng Hổ,An Giang
+10.388225312500001,105.4353303125,not defined or m2m,182,88,K tìm thấy MC,nhu.nguyen15,Thành phố Long Xuyên,,Tôn Đức Thắng,An Giang
+10.59921,105.35275142857142,MBB,786,29,,,Huyện Phú Tân,,QL. 80B,An Giang
+10.382824545454545,105.44311909090909,MBB,448,33,Chưa tìm thấy cửa hàng,vinh.nguyen18,Thành phố Long Xuyên,,Nguyễn Đình Chiểu,An Giang
+10.707203548387097,105.12630451612904,HDB,1,85,,,Thành phố Châu Đốc,,Lê Lợi,An Giang
+10.391915000000001,105.422501,TCB,239,21,,,Thành phố Long Xuyên,,Đường Thành Thái,An Giang
+10.577639999999999,105.359962,ACB,659,22,,,Huyện Phú Tân,,Chu Văn An,An Giang
+10.701798148148146,105.11321777777779,VCB,932,75,,,Thành phố Châu Đốc,,Đường Trưng Nữ Vương,An Giang
+10.375275555555556,105.4356338888889,MBB,128,58,K tìm thấy,nhu.nguyen15,Thành phố Long Xuyên,,Võ Thị Sáu,An Giang
+10.367667500000001,105.4393875,VCB,269,18,,,Thành phố Long Xuyên,,Ung Văn Khiêm,An Giang
+10.70627,105.1235,MBB,306,12,,,Thành phố Châu Đốc,,Phan Đình Phùng,An Giang
+10.702565,105.132805,VCB,291,13,,,Thành phố Châu Đốc,,Tôn Đức Thắng,An Giang
+10.798784444444443,105.24598555555555,EXIM,694,34,,,Huyện Tân Châu,,Tôn Đức Thắng,An Giang
+10.38265,105.425834,MBB,260,11,,,Thành phố Long Xuyên,,Nguyễn Hoàng,An Giang
+10.386261428571428,105.43475142857145,VPB,128,19,,,Thành phố Long Xuyên,,Trần Hưng Đạo,An Giang
+10.43085,105.40015,MSB,507,16,,,Huyện Châu Thành,,Lê Lợi,An Giang
+10.34125,105.47205,MBB,178,10,,,Thành phố Long Xuyên,,Trần Hưng Đạo,An Giang
+10.448186,105.34664000000001,VIB,635,14,,,Huyện Châu Thành,,Đường tỉnh 941,An Giang
+10.710342857142855,105.12093571428571,TCB,14,22,,,Thành phố Châu Đốc,,Lê Lợi,An Giang
+10.373450930232556,105.43792139534884,BIDV,321,116,K tìm thấy,nhu.nguyen15,Thành phố Long Xuyên,,Lý Thái Tổ,An Giang
+10.373798181818181,105.43828272727274,TCB,388,65,K tìm thấy,nhu.nguyen15,Thành phố Long Xuyên,,Lý Thái Tổ,An Giang
+10.711502,105.1156985,VTB,907,95,,,Thành phố Châu Đốc,,Thủ Khoa Nghĩa,An Giang
+10.37214536585366,105.43568219512196,EXIM,192,176,K tìm thấy,nhu.nguyen15,Thành phố Long Xuyên,,Lý Thái Tổ,An Giang
+10.37773,105.42959571428571,BIDV,118,22,,,Thành phố Long Xuyên,,Hà Hoàng Hổ,An Giang
+10.382941666666666,105.44295166666666,TCB,346,17,,,Thành phố Long Xuyên,,Nguyễn Đình Chiểu,An Giang
+10.374817142857141,105.43206857142857,VCB,959,48,K tìm thấy đc,nhu.nguyen15,Thành phố Long Xuyên,,Lý Thái Tổ,An Giang
+10.368763333333334,105.43822333333334,VCB,665,18,,,Thành phố Long Xuyên,,Ung Văn Khiêm,An Giang
+10.392707142857143,105.42692428571428,VIB,301,32,K tìm thấy,nhu.nguyen15,Thành phố Long Xuyên,,Trần Hưng Đạo,An Giang
+10.375245,105.43578428571429,MBB,952,51,K tìm thấy,nhu.nguyen15,Thành phố Long Xuyên,,Võ Thị Sáu,An Giang
