@@ -207,7 +207,12 @@ const CITY_CENTER = {
 "can-tho.csv":[105.7469,10.0452],
 "hai-phong.csv":[106.6881,20.8449]
 };
-
+const map = new mapboxgl.Map({
+  container:"map",
+  style:"mapbox://styles/mapbox/light-v11",
+  center:[106.7009,10.7769],
+  zoom:10
+});
 function csvToGeoJSON(text){
 
 const lines=text.trim().split("\n");
